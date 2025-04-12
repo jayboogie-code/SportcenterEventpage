@@ -9,7 +9,7 @@ Welcome to the Apex Event Center Website! This project is a responsive, multi-pa
 - [Technologies Used](#technologies-used)
 - [File Structure](#file-structure)
 - [Setup Instructions](#setup-instructions)
-- [Screenshots](#screenshots)
+
 
 ---
 
